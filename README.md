@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayodele-c
+- 👋 Hi, I’m Muhammed, a quality assurance engineer with 4 years of experience delivering quality digital products to end users.
 - 👀 I’m interested in quality assurance role
 - 🌱 I’m currently learning web automation with cypress, I have some scripts alraedy on my public profile
 - 💞️ I’m looking to collaborate on ....
